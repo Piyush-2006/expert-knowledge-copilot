@@ -188,6 +188,10 @@ http://localhost:8501
 ### API Documentation
 
 <img width="1807" height="912" alt="Screenshot 2026-07-10 224533" src="https://github.com/user-attachments/assets/e0063e8a-67d3-47ef-8193-7d88b6aa2d3e" />
+<img width="1798" height="897" alt="Screenshot 2026-07-10 224457" src="https://github.com/user-attachments/assets/341c4fb9-350d-4f5d-ad3e-5c2eca27597d" />
+<img width="1841" height="878" alt="Screenshot 2026-07-10 224355" src="https://github.com/user-attachments/assets/b091b001-25d9-424b-92b8-1a79283291e9" />
+
+
 
 
 
