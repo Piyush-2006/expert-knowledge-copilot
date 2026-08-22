@@ -223,7 +223,7 @@ http://localhost:8501
 
 Demo Video Link:
 
-(Add YouTube Link)
+https://www.youtube.com/watch?v=ndknGffZPSw
 
 ---
 
@@ -236,10 +236,6 @@ B.Tech CSE, Galgotias University
 GitHub:
 
 https://github.com/Piyush-2006
-
-LinkedIn:
-
-(Add LinkedIn Link)
 
 ---
 
