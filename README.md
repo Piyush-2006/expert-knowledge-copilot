@@ -219,14 +219,6 @@ http://localhost:8501
 
 ---
 
-# 🎥 Demo
-
-Demo Video Link:
-
-https://www.youtube.com/watch?v=ndknGffZPSw
-
----
-
 # 👨‍💻 Team
 
 **Piyush Kumar**
